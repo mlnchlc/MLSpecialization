@@ -103,3 +103,10 @@ Every script adheres to these rules (see [AGENTS.md](AGENTS.md)):
 | 1 | Supervised Learning | Linear/Logistic Regression, Gradient Descent, Regularization, Neural Nets |
 | 2 | Advanced Algorithms | TensorFlow, Bias/Variance, Decision Trees, ML Strategy |
 | 3 | Unsupervised Learning | K-Means, Anomaly Detection, Recommender Systems, RL, PCA |
+
+---
+
+## 📜 License
+
+This project is licensed under the **[MIT License](LICENSE)** — see the [`LICENSE`](LICENSE) file for details.
+
